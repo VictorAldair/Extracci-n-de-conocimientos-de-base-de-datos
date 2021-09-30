@@ -1,1 +1,1 @@
-# Extracci-n-de-conocimientos-de-base-de-datos
+# Extraccion-de-conocimientos-de-base-de-datos
